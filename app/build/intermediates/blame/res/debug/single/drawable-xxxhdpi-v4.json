@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "D:\\WeaveSmell\\view\\XCArcMenu1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\ic_security_white_24dp.png",
+        "source": "D:\\WeaveSmell\\view\\XCArcMenu1\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_security_white_24dp.png"
+    },
+    {
+        "merged": "D:\\WeaveSmell\\view\\XCArcMenu1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\ic_people_white_24dp.png",
+        "source": "D:\\WeaveSmell\\view\\XCArcMenu1\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_people_white_24dp.png"
+    },
+    {
+        "merged": "D:\\WeaveSmell\\view\\XCArcMenu1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\ic_timeline_white_24dp.png",
+        "source": "D:\\WeaveSmell\\view\\XCArcMenu1\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_timeline_white_24dp.png"
+    },
+    {
+        "merged": "D:\\WeaveSmell\\view\\XCArcMenu1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\ic_qiwei_speaker_notes_white_24dp.png",
+        "source": "D:\\WeaveSmell\\view\\XCArcMenu1\\app\\src\\main\\res\\drawable-xxxhdpi\\ic_qiwei_speaker_notes_white_24dp.png"
+    }
+]

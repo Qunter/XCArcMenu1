@@ -1,0 +1,30 @@
+[
+    {
+        "merged": "D:\\WeaveSmell\\view\\XCArcMenu1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\ic_qiwei_speaker_notes_white_24dp.png",
+        "source": "D:\\WeaveSmell\\view\\XCArcMenu1\\app\\src\\main\\res\\drawable-xxhdpi\\ic_qiwei_speaker_notes_white_24dp.png"
+    },
+    {
+        "merged": "D:\\WeaveSmell\\view\\XCArcMenu1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\ic_security_white_24dp.png",
+        "source": "D:\\WeaveSmell\\view\\XCArcMenu1\\app\\src\\main\\res\\drawable-xxhdpi\\ic_security_white_24dp.png"
+    },
+    {
+        "merged": "D:\\WeaveSmell\\view\\XCArcMenu1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\menu_bg.png",
+        "source": "D:\\WeaveSmell\\view\\XCArcMenu1\\app\\src\\main\\res\\drawable-xxhdpi\\menu_bg.png"
+    },
+    {
+        "merged": "D:\\WeaveSmell\\view\\XCArcMenu1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\item_bg.png",
+        "source": "D:\\WeaveSmell\\view\\XCArcMenu1\\app\\src\\main\\res\\drawable-xxhdpi\\item_bg.png"
+    },
+    {
+        "merged": "D:\\WeaveSmell\\view\\XCArcMenu1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\ic_people_white_24dp.png",
+        "source": "D:\\WeaveSmell\\view\\XCArcMenu1\\app\\src\\main\\res\\drawable-xxhdpi\\ic_people_white_24dp.png"
+    },
+    {
+        "merged": "D:\\WeaveSmell\\view\\XCArcMenu1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\ic_timeline_white_24dp.png",
+        "source": "D:\\WeaveSmell\\view\\XCArcMenu1\\app\\src\\main\\res\\drawable-xxhdpi\\ic_timeline_white_24dp.png"
+    },
+    {
+        "merged": "D:\\WeaveSmell\\view\\XCArcMenu1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\ic_launcher.png",
+        "source": "D:\\WeaveSmell\\view\\XCArcMenu1\\app\\src\\main\\res\\drawable-xxhdpi\\ic_launcher.png"
+    }
+]
